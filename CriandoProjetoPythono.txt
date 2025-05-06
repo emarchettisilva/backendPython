@@ -1,0 +1,12 @@
+vá para a pasta do projeto
+
+mkdir backend
+cd backend
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip freeze > requirements.txtF
+pip install Flask
+pip install CORS
