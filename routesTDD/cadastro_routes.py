@@ -1,0 +1,11 @@
+rotasCadastroPost = [
+    
+]
+
+rotasCadastroGetPutGet = [
+    
+]
+
+rotasCadastroDelete = [
+
+]
